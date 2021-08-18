@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 李涛的博客 | BY Blog
+title: itonyli blog
+SEOTitle: 李涛的博客 | itonyli blog
 header-img: img/post-bg-desk.jpg
 email: lt429284840@gmail.com
 description: "最好的程序员跟好的程序员相比可不止好那么一点点。"
-keyword: "Computing, Storage, Algorithm"
+keyword: "云计算, 云原生, 容器, 调度, K8s, 分布式, 大数据, 存储"
 url: "http://itonyli.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/itonyli/itonyli.github.io.git" # you code repository
